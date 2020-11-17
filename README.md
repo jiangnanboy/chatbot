@@ -15,7 +15,7 @@ pytorch利用神经网络分类实现英文的简单对话chatbot。
     
 #### result
 
-![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/chatbotgui。png)
+![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/chatbotgui.png)
 
 
 #### requirements
