@@ -25,5 +25,5 @@ pytorch利用神经网络分类实现英文的简单对话chatbot。
 * [numpy1.18.5]
 
 #### references
-* https://data-flair.training/blogs/python-chatbot-project/
+* https://data-flair.training/blogs
 
