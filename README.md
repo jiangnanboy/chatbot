@@ -4,8 +4,7 @@ pytorch利用神经网络分类实现英文的简单对话chatbot。
 
 <br/>
 
-#### process data,train and predict
-
+#### 1.process data,train and predict:
 * 英文数据
     intents.json
 * 训练
@@ -13,22 +12,21 @@ pytorch利用神经网络分类实现英文的简单对话chatbot。
 * 预测
     chatapp.ipynb
     
-#### model structure
+#### 2.model structure:
 ![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/model_structure.png)
 
-#### loss
+#### 3.loss:
 ![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/loss.png)
 
-#### result
-
+#### 4.result:
 ![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/chatbotgui.png)
 
-#### requirements
+#### 5.requirements:
 * [pytorch1.5]
 * [python3.6]
 * [nltk3.3]
 * [numpy1.18.5]
 
-#### references
+#### 6.references:
 * https://data-flair.training/blogs
 
