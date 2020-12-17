@@ -13,10 +13,15 @@ pytorch利用神经网络分类实现英文的简单对话chatbot。
 * 预测
     chatapp.ipynb
     
+#### model structure
+![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/model_structure.png)
+
+#### loss
+![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/loss.png)
+
 #### result
 
 ![image](https://raw.githubusercontent.com/jiangnanboy/chatbot/master/chatbotgui.png)
-
 
 #### requirements
 * [pytorch1.5]
